@@ -11,5 +11,5 @@
         android:id="@+id/openReminderButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Open Reminder App" />
+        android:text="Welcome Reminder App" />
 </LinearLayout>

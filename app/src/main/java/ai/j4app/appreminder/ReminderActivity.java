@@ -132,7 +132,7 @@ public class ReminderActivity extends AppCompatActivity {
         String description = descriptionEditText.getText().toString().trim();
 
         if (title.isEmpty()) {
-            Toast.makeText(this, "Please enter a title", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Введите название напоминания", Toast.LENGTH_SHORT).show();
             return;
         }
 
